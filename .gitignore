@@ -1,0 +1,7 @@
+media/raw/
+.DS_Store
+
+# Local tooling, not published
+scripts/
+docs/capture-guide.md
+media/trim.txt
